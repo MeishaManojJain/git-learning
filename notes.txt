@@ -1,0 +1,50 @@
+Git = Version Control System (tracks project history)
+GitHub = stores Git repos online
+Repository = project tracked by Git
+ 
+git init
+- initialises repo
+- creates .git folder
+ 
+git status
+- shows current state
+ 
+git add
+- stage changes
+ 
+git commit -m ""
+- save snapshot locally
+ 
+git push
+- upload commits to GitHub
+ 
+Working directory -> Staging area -> Commit -> GitHub
+ 
+Useful terminal commands:
+ 
+pwd
+- print working directory (shows where you are)
+ 
+ls
+- list files in current directory
+ 
+cd
+- change directory
+ 
+mkdir
+- make a new directory
+ 
+touch
+- create a new empty file
+ 
+rm
+- remove a file
+ 
+rm -r
+- remove a folder and its contents
+ 
+cp
+- copy a file
+ 
+mv
+- move or rename a file
